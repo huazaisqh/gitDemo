@@ -27,4 +27,8 @@ public class User {
                 ", password='" + password + '\'' +
                 '}';
     }
+
+    public static void main(String[] args) {
+        System.out.println("创建分支");
+    }
 }
